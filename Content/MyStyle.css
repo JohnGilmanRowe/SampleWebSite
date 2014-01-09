@@ -1,0 +1,14 @@
+﻿
+#mydiv {
+    background-color: ivory;
+    height:auto;
+    width:10em;
+    border:dotted;
+    border-color:indigo;
+}
+
+html {
+    background-color: mintcream;
+    margin: 0;
+    padding: 0;
+}
